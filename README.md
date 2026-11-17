@@ -1,6 +1,6 @@
 <!--
-  使用方式：把本文件复制到 hb-degithub/hb-degithub 仓库根目录，命名为 README.md。
-  修改提示：项目、技术栈与联系方式按实际情况更新；首屏保持简洁。
+  使用方式：本文件是 GitHub 个人资料页（hb-degithub/hb-degithub 仓库根 README.md）的源文件。
+  修改提示：改完复制到 profile-repo/README.md 再提交推送；项目与技术栈按实际情况更新。
 -->
 
 <div align="center">
@@ -22,12 +22,20 @@
 
 ## 关于我
 
-- 探索全栈开发与自动化，从真实需求出发做小而完整的工具。
-- 把重复流程抽象成可复用的脚本、服务或界面。
-- 持续打磨代码与体验：可读、可维护，也足够好用。
-- 日常记录与长文在个人博客：[hlydwz.com](https://hlydwz.com)
+热爱创造的开发者。喜欢把复杂的事情拆开，做成小而完整、能长期跑下去的东西。
 
-<!-- 新增项目时：复制一行表格，更新链接、简介与技术标签即可。 -->
+- **全栈**：从界面到接口再到数据，尽量一个人把一条链路走通。
+- **自动化**：把重复的部分抽象成脚本、服务或工具，让机器去做枯燥的那半。
+- **打磨**：先让它跑起来，再在结构、体验和可维护性上反复修。
+
+## 我在做什么
+
+| 方向 | 具体在做什么 | 代表项目 |
+| --- | --- | --- |
+| 全栈应用 | Vue 3 + Express + MySQL 的完整链路，含实时通信、用户与房间管理 | [zxailts](https://github.com/hb-degithub/zxailts) |
+| 系统工具 | 用 Node.js 原生能力实现的单机 Linux 运维面板，零 npm 依赖 | [SysDeck](https://github.com/hb-degithub/sysdeck) |
+| 自动化流程 | 把多个平台收进统一任务模型，让差异留在适配层 | [课代表](https://github.com/hb-degithub/kedaibiao) |
+| AI 集成 | 在浏览器与对话场景里接入 AI，探索更顺手的交互 | [PTA Auto Solve](https://github.com/hb-degithub/PTA-Auto-Solve) |
 
 ## 精选项目
 
@@ -42,9 +50,24 @@
 
 ## 技术栈
 
-<img src="https://skillicons.dev/icons?i=vue,js,python,java,rust,express,mysql,docker&theme=dark" alt="Vue, JavaScript, Python, Java, Rust, Express, MySQL, Docker" />
+| 领域 | 常用 |
+| --- | --- |
+| 前端 | Vue 3 · JavaScript · HTML / CSS |
+| 后端 | Node.js · Express · MySQL · REST |
+| 自动化 | Python · Playwright · 浏览器用户脚本 |
+| 运维 | Linux · Docker · 自托管部署 |
 
-这些图标来自我在开源项目中的技术探索，不代表熟练程度。
+按项目实际使用整理，不代表熟练程度。
+
+## 关注方向
+
+- **可维护的前端结构**：让界面在长期迭代里不失控，而不是一味堆组件。
+- **工程效率**：把重复的流程收进脚本，减少手工环节。
+- **AI 与工具的结合**：让 AI 成为顺手的能力，而不只是演示。
+
+## 写作
+
+开发过程、自动化实践和折腾记录都写在个人博客：[hlydwz.com](https://hlydwz.com)
 
 <!-- 贡献图由第三方服务生成；若长期加载失败，可删除本节图片与说明。 -->
 
